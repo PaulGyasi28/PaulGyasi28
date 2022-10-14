@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PaulGyasi28
-- 👀 I’m interested in ... data science , web dev.
-- 🌱 I’m currently learning ... python , pandas
-- 💞️ I’m looking to collaborate on ... machine learning 
+- 👀 I’m interested in ... web dev, data science.
+- 🌱 I’m currently learning ... javascript and python 
+- 💞️ I’m looking to collaborate on ... web dev and machine learning 
 - 📫 How to reach me ... paboagye082@gmail.com
 
 <!---
